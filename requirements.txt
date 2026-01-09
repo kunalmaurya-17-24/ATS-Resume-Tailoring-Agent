@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+langgraph
+keybert
+sentence-transformers
+pydantic
+python-multipart
+langchain-groq
+python-dotenv

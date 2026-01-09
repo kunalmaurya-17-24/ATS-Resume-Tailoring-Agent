@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+.env
+
+# Project Specific
+temp_latex/
+*.pdf
+*.aux
+*.log
+*.out
+langgraph_viz.png
+output2.png
+
+# IDEs
+.vscode/
+.idea/
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
