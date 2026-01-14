@@ -10,12 +10,22 @@ env/
 
 # Project Specific
 temp_latex/
+resume_structure.txt
 *.pdf
 *.aux
 *.log
 *.out
 langgraph_viz.png
 output2.png
+
+# Debugging & Temporary
+debug_*.py
+debug_*.log
+server_debug.log
+test_final.log
+debug_output.log
+debug_graph.txt
+hello.txt
 
 # IDEs
 .vscode/

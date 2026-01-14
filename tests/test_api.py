@@ -41,7 +41,6 @@ def test_tailor_endpoint():
             
     except Exception as e:
         print(f"Test failed: {e}")
-        print("Make sure the docker container is running ('docker-compose up').")
 
 if __name__ == "__main__":
     test_tailor_endpoint()

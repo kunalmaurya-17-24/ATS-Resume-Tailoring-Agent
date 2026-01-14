@@ -5,5 +5,5 @@ keybert
 sentence-transformers
 pydantic
 python-multipart
-langchain-groq
+langchain-openai
 python-dotenv

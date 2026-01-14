@@ -1,9 +1,0 @@
-services:
-  resume-agent:
-    build: .
-    ports:
-      - "8000:8000"
-    environment:
-      - GROQ_API_KEY=${GROQ_API_KEY}
-    volumes:
-      - ./temp_latex:/app/temp_latex

@@ -8,6 +8,7 @@ dependencies = [
     "fastapi>=0.128.0",
     "keybert>=0.9.0",
     "langchain-groq>=1.1.1",
+    "langchain-openai>=1.1.7",
     "langgraph>=1.0.5",
     "openai>=2.14.0",
     "pydantic>=2.12.5",
